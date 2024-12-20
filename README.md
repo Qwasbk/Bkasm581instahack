@@ -22,7 +22,3 @@ username entar of the persons id you want acess)
 
 wordilst passilst).......
 
-Then to use this tool you will be automatically redirected to our YouTube channel do aubecribe and click on Bell and come back to Termux you Will be able to use this tool for free
-
-Hope & You Love the fool for any queries or error comment To Learn Hacking join our Channel
-https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
