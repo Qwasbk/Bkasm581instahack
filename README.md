@@ -8,7 +8,7 @@ Run this Command to install the Tool.....
 
 𝟯. 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁 -𝘆 
 
-𝟰. 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/Hackerscolonyofficial/BrutXInsta.git
+𝟰. 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/Qwasbk/Bkasm581instahack
 
 𝟱. 𝗰𝗱 𝗕𝗿𝘂𝘁𝗫𝗜𝗻𝘀𝘁𝗮
 
