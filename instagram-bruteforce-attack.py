@@ -8,7 +8,7 @@ import time, os, random
 from random import randint
 from six.moves import input
 import colorama
-@@ -18,28 +16,30 @@
+
 CheckVersion = str(sys.version)
 import re
 from datetime import datetime
